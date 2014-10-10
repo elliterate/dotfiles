@@ -1,0 +1,12 @@
+[core]
+	pager = less -FXRS -x2
+[push]
+	default = simple
+[color]
+	ui = auto
+[log]
+	decorate = short
+[alias]
+	co = checkout
+	lg = log --graph
+	st = status
