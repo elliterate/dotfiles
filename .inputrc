@@ -1,0 +1,16 @@
+# Up arrow searches history backwards
+"\e[A":history-search-backward
+# Down arrow searches history forwards
+"\e[B":history-search-forward
+
+# Space expands history entries
+$if Bash
+  Space: magic-space
+$endif
+
+# Ignore case when tab completing
+set completion-ignore-case on
+
+# Always show all possibilities (rather than prompting)
+# when tab completing an ambiguous search
+set show-all-if-ambiguous on
