@@ -1,0 +1,18 @@
+# OS X
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# JetBrains
+.idea/
+
+# vim
+*.swp
+
+# ctags
+TAGS
+!TAGS/
+tags
+!tags/
