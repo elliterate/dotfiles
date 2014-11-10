@@ -1,9 +1,17 @@
 # OS X
+.AppleDB
+.AppleDesktop
+.AppleDouble
 .DS_Store
 .DS_Store?
+.LSOverride
 ._*
 .Spotlight-V100
 .Trashes
+.apdisk
+Icon
+Network Trash Folder
+Temporary Items
 
 # JetBrains
 .idea/
