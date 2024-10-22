@@ -4,7 +4,7 @@ require 'irb/ext/save-history'
 require 'pp'
 
 begin
-  require 'ap'
+  require 'awesome_print'
 rescue LoadError
 end
 
