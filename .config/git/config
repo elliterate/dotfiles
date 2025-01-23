@@ -1,5 +1,7 @@
 [core]
 	pager = less -FXRS -x2
+[init]
+	defaultBranch = main
 [pull]
 	ff = true
 [push]
