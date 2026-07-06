@@ -15,6 +15,7 @@ Temporary Items
 
 # JetBrains
 .idea/
+*.iml
 
 # XCode
 build/
