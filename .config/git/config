@@ -14,3 +14,5 @@
 	co = checkout
 	lg = log --graph
 	st = status
+[user]
+	name = Ian Lesperance
