@@ -3,6 +3,12 @@
 # Down arrow searches history forwards
 "\e[B":history-search-forward
 
+# OPT-LEFT
+"\e[1;3D": backward-word
+
+# OPT-RIGHT
+"\e[1;3C": forward-word
+
 # Space expands history entries
 $if Bash
   Space: magic-space
